@@ -30,20 +30,6 @@ The project demonstrates how Python can be integrated with MySQL using the **mys
 
 ---
 
-## 📂 Project Structure
-
-```text
-Student_Management_System/
-│
-├── student_management.py
-├── README.md
-├── requirements.txt
-├── student_management.sql
-└── screenshots/
-```
-
----
-
 ## 🗄️ Database Schema
 
 ### Create Database
