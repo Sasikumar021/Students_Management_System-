@@ -60,23 +60,7 @@ CREATE TABLE students(
 
 ---
 
-## ⚙️ Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/student-management-system.git
-```
-
-### 2. Install Required Package
-
-```bash
-pip install mysql-connector-python
-```
-
-### 3. Create the Database
-
-Run the SQL script to create the database and table.
+e database and table.
 
 ### 4. Configure MySQL Connection
 
@@ -89,20 +73,7 @@ mydb = mysql.connector.connect(
     password="your_password",
     database="student_management"
 )
-```
-
----
-
-## ▶️ How to Run
-
-Execute the Python file.
-
-```bash
-python student_management.py
-```
-
-or open the project in **Jupyter Notebook** and run all cells.
-
+``
 ---
 
 ## 📖 Menu Options
