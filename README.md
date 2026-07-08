@@ -76,7 +76,6 @@ mydb = mysql.connector.connect(
 
 ## 📖 Menu Options
 
-```text
 ========== STUDENT MANAGEMENT SYSTEM ==========
 
 1. Add Student
