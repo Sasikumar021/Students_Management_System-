@@ -60,8 +60,6 @@ CREATE TABLE students(
 
 ---
 
-e database and table.
-
 ### 4. Configure MySQL Connection
 
 Update the database credentials inside the Python file.
